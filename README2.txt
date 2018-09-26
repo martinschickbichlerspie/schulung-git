@@ -2,4 +2,4 @@ Hallo InfoGraph!
 
 Hallo!!!!
 Hallo!!!!!!!!!!
-Das ist ein Test
+Das ist ein Test!
